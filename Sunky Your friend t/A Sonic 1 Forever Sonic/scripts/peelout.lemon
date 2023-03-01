@@ -1,0 +1,24 @@
+global u8 Sonic.Zoom
+
+//# address-hook(0x012600) end(0x01286c)
+//# translated(0x012a2a) end(0x012a6e)
+
+function u64 stringformat(u64 format, u64 arg1)
+{
+	if (format == "sonic_peelout_%d")
+	{
+		if (Sonic.Zoom == 0x00)
+	    	{
+			format = "sonic_peelout_%d"
+			}
+		if (Sonic.Zoom == 0x01)
+		    {
+			format = "sonic2_peelout_%d"
+			}
+		if (Sonic.Zoom == 0x02)
+		    {
+			format = "sonicmania_peelout_%d"
+			}
+	}
+return base.stringformat(format, arg1)
+}

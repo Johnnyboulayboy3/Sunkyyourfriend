@@ -1,0 +1,47 @@
+{
+  "Metadata": {
+    "Name": "Sonic Forever Sonic",
+    "Author": "Flamesz, Team Forever, deltaConduit, UltimateEXE",
+    "Description": "Original sprites by Team Forever, most stage specific sprites done by deltaConduit, additional stage specific sprites done by me and Mania Team",
+    "URL": "Gamebanana.com",
+	"GameVersion": "21.9.10.0",	
+    "ModVersion": "1.5",
+  	},
+	"Settings":
+{
+		"Options":
+	[
+		{
+				"InternalName": "Sonic.Palette",
+				"DisplayName": "Palette(s)",
+				"Variable": "Sonic.Palette",
+				"DefaultValue": "0",
+				"Category": "Palettes",	
+				"Options":
+			{
+					"0x00": "S1F - Hardware",
+					"0x01": "S1F - Emulated",
+					"0x02": "S1 - Debut ",
+					"0x03": "S3K",
+					"0x04": "Sonic 2",
+					"0x05": "Sonic 3 with S1F/S2A Grays",
+					"0x06": "Your custom palette here!",
+					}
+			},
+			{
+				"InternalName": "Sonic.Zoom",
+				"DisplayName": "Peelout(s)",                                             
+				"Variable": "Sonic.Zoom",
+				"DefaultValue": "0",
+				"Category": "Peelout",
+				"Options":
+			{
+					"0x00": "SCD Peelout",
+					"0x01": "S2B Peelout",
+					"0x02": "SM Peelout",
+					}					
+				}
+		    ]
+		}
+	}
+}

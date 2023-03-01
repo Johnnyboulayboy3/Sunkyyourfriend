@@ -1,0 +1,12 @@
+{
+	"character_sonic_springtwirl_0":  { "File": "sonic_twirl.bmp", "Rect": "0,0,21,45", "Center": "12,20" },
+	"character_sonic_springtwirl_1":  { "File": "sonic_twirl.bmp", "Rect": "24,0,25,45", "Center": "12,20" },
+	"character_sonic_springtwirl_2":  { "File": "sonic_twirl.bmp", "Rect": "50,0,25,45", "Center": "12,20" },
+	"character_sonic_springtwirl_3":  { "File": "sonic_twirl.bmp", "Rect": "75,0,20,45", "Center": "8,20" },
+	"character_sonic_springtwirl_4":  { "File": "sonic_twirl.bmp", "Rect": "95,0,29,45", "Center": "13,21" },
+	"character_supersonic_springtwirl_0":  { "File": "supersonic_twirl.bmp", "Rect": "0,0,23,46", "Center": "14,21" },
+	"character_supersonic_springtwirl_1":  { "File": "supersonic_twirl.bmp", "Rect": "24,0,23,46", "Center": "9,21" },
+	"character_supersonic_springtwirl_2":  { "File": "supersonic_twirl.bmp", "Rect": "48,0,29,46", "Center": "16,20" },
+	"character_supersonic_springtwirl_3":  { "File": "supersonic_twirl.bmp", "Rect": "78,0,29,46", "Center": "16,20" },
+	"character_supersonic_springtwirl_4":  { "File": "supersonic_twirl.bmp", "Rect": "108,0,29,46", "Center": "17,20" }
+}
